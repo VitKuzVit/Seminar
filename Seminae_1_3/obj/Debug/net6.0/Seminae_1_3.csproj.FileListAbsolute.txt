@@ -1,0 +1,15 @@
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Seminar\Seminae_1_3\bin\Debug\net6.0\Seminae_1_3.exe
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Seminar\Seminae_1_3\bin\Debug\net6.0\Seminae_1_3.deps.json
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Seminar\Seminae_1_3\bin\Debug\net6.0\Seminae_1_3.runtimeconfig.json
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Seminar\Seminae_1_3\bin\Debug\net6.0\Seminae_1_3.dll
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Seminar\Seminae_1_3\bin\Debug\net6.0\Seminae_1_3.pdb
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Seminar\Seminae_1_3\obj\Debug\net6.0\Seminae_1_3.csproj.AssemblyReference.cache
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Seminar\Seminae_1_3\obj\Debug\net6.0\Seminae_1_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Seminar\Seminae_1_3\obj\Debug\net6.0\Seminae_1_3.AssemblyInfoInputs.cache
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Seminar\Seminae_1_3\obj\Debug\net6.0\Seminae_1_3.AssemblyInfo.cs
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Seminar\Seminae_1_3\obj\Debug\net6.0\Seminae_1_3.csproj.CoreCompileInputs.cache
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Seminar\Seminae_1_3\obj\Debug\net6.0\Seminae_1_3.dll
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Seminar\Seminae_1_3\obj\Debug\net6.0\refint\Seminae_1_3.dll
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Seminar\Seminae_1_3\obj\Debug\net6.0\Seminae_1_3.pdb
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Seminar\Seminae_1_3\obj\Debug\net6.0\Seminae_1_3.genruntimeconfig.cache
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Seminar\Seminae_1_3\obj\Debug\net6.0\ref\Seminae_1_3.dll
